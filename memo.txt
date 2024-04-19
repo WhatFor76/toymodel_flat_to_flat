@@ -1,0 +1,11 @@
+init_temperature:float=2000
+iterate_time=1000
+step=0.03
+a=-10
+b=30
+q=0
+errortime_torrent=5
+coff_step=2
+coff_torr=3
+p=0
+T=init_temperature
